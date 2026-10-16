@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://x.com/spyglasshq">
-    <img src="https://img.shields.io/badge/Follow_on_X-2563EB?style=for-the-badge&logo=x&logoColor=white" alt="Follow Spyglass on X">
+    <img src="https://img.shields.io/badge/Follow-%40spyglasshq-white?style=social&logo=x&logoColor=black" alt="Follow @spyglasshq on X">
   </a>
   <a href="https://www.instagram.com/spyglasshq/">
     <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow Spyglass on Instagram">
