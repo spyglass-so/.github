@@ -64,7 +64,7 @@ import { Spyglass } from "@spyglass/sdk";
 const spyglass = new Spyglass({ apiKey: process.env.SPYGLASS_API_KEY });
 
 const { brands } = await spyglass.brands.search({ names: ["Nike"], limit: 1 });
-const account = await spyglass.accounts.retrieve(brands[0].id);
+const account = await spyglass.account.retrieve(brands[0].id);
 
 for await (const ad of spyglass.media.list({ brandId: account.id, limit: 100 })) {
   console.log(ad.id, ad.title);
