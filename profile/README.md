@@ -5,13 +5,13 @@
   <p>Search brands, creators, and the ads they run. Then pull the creatives, hooks, landing pages, and comments behind them.</p>
 
   <a href="https://app.spyglass.so">
-    <img src="https://img.shields.io/badge/Get_Started-111111?style=for-the-badge" alt="Get Started">
+    <img src="https://img.shields.io/badge/Get_Started-7C3AED?style=for-the-badge" alt="Get Started">
   </a>
   <a href="https://docs.spyglass.so">
-    <img src="https://img.shields.io/badge/Documentation-4A4A4A?style=for-the-badge" alt="Documentation">
+    <img src="https://img.shields.io/badge/Documentation-2563EB?style=for-the-badge" alt="Documentation">
   </a>
   <a href="https://github.com/spyglass-so/spyglass">
-    <img src="https://img.shields.io/badge/SDK-0A0A0A?style=for-the-badge" alt="SDK">
+    <img src="https://img.shields.io/badge/SDK-0D9488?style=for-the-badge" alt="SDK">
   </a>
 </div>
 
@@ -19,13 +19,13 @@
 
 <div align="center">
   <a href="https://github.com/spyglass-so/spyglass/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/spyglass-so/spyglass" alt="License">
+    <img src="https://img.shields.io/badge/license-MIT-0D9488" alt="License">
   </a>
   <a href="https://github.com/spyglass-so/spyglass/stargazers">
-    <img src="https://img.shields.io/github/stars/spyglass-so/spyglass?style=social" alt="GitHub Stars">
+    <img src="https://img.shields.io/badge/Star_on_GitHub-F59E0B?logo=github&logoColor=white" alt="Star on GitHub">
   </a>
   <a href="https://spyglass.so">
-    <img src="https://img.shields.io/badge/spyglass.so-111111" alt="spyglass.so">
+    <img src="https://img.shields.io/badge/spyglass.so-DB2777" alt="spyglass.so">
   </a>
 </div>
 
