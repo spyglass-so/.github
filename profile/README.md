@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/spyglass-so/spyglass/main/assets/icon.svg" alt="Spyglass" height="96">
+  <img src="https://raw.githubusercontent.com/spyglass-so/spyglass/main/assets/wordmark.svg" alt="Spyglass" width="360">
 
   <h3>The API layer for the social internet</h3>
   <p>Search brands, creators, and the ads they run. Then pull the creatives, hooks, landing pages, and comments behind them.</p>
