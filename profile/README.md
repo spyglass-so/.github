@@ -52,7 +52,7 @@ Spyglass is one API for that layer. Resolve a brand or creator, then ask what th
 
 <a href="https://github.com/spyglass-so/spyglass-typescript"><img align="right" src="https://img.shields.io/badge/SDKs-0D9488?style=for-the-badge" alt="SDK repositories"></a>
 
-**[spyglass-so/spyglass-typescript](https://github.com/spyglass-so/spyglass-typescript)** & **[spyglass-so/spyglass-python](https://github.com/spyglass-so/spyglass-python)** — Official TypeScript (`@spyglass/sdk`) and Python (`spyglass-sdk`) clients.
+**[spyglass-so/spyglass-typescript](https://github.com/spyglass-so/spyglass-typescript)** & **[spyglass-so/spyglass-python](https://github.com/spyglass-so/spyglass-python)** — Official TypeScript (`@spyglasshq/sdk`) and Python (`spyglass-sdk`) clients.
 
 Bring brand discovery, creator research, creatives, insights, landing pages, and comments into your own applications.
 
@@ -104,11 +104,11 @@ Calls spend monthly credits, per row returned. Bound them with `limit`.
 Official clients for [TypeScript](https://github.com/spyglass-so/spyglass-typescript) and [Python](https://github.com/spyglass-so/spyglass-python).
 
 ```bash
-npm install @spyglass/sdk
+npm install @spyglasshq/sdk
 ```
 
 ```ts
-import { SpyglassClient } from "@spyglass/sdk";
+import { SpyglassClient } from "@spyglasshq/sdk";
 
 const client = new SpyglassClient({ token: process.env.SPYGLASS_API_KEY! });
 
